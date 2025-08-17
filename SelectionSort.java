@@ -26,7 +26,7 @@ public class SelectionSort {
 
           System.out.println("After Sorting");
         for(int num : nums){
-            System.out.println(num +" ");
+            System.out.println(num + " ");
         }
     }
     
